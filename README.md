@@ -12,7 +12,9 @@ Firstly, I have to place my work onto Github. In order to install the work onto 
 - Tom Woods; TA 
 - Kyle Daniels; tutor 
 - Michael Portu; used as a reference -  https://github.com/mlportu/workday-scheduler 
-- W3schools
+- Travis John; used as a reference - https://github.com/travis-john/05-day-planner
+- W3schools 
+- moment.js
 ## License
 MIT License
 
