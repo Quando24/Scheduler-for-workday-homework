@@ -11,7 +11,7 @@ Firstly, I have to place my work onto Github. In order to install the work onto 
 ## Credits
 - Tom Woods; TA 
 - Kyle Daniels; tutor 
-- Michael Portu; used as a guide when stuck -  https://github.com/mlportu/workday-scheduler 
+- Michael Portu; used as a reference when stuck -  https://github.com/mlportu/workday-scheduler 
 - W3schools
 ## License
 MIT License
@@ -36,5 +36,7 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
-## Screenshot
+## Screenshot 
+![Scheduler-for-workday-homework](https://user-images.githubusercontent.com/76064980/113517894-bb771d00-9550-11eb-86df-fd0be6d867b4.png)
+
 ---
