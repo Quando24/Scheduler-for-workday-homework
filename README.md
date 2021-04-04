@@ -11,7 +11,7 @@ Firstly, I have to place my work onto Github. In order to install the work onto 
 ## Credits
 - Tom Woods; TA 
 - Kyle Daniels; tutor 
-- Michael Portu; used as a reference when stuck -  https://github.com/mlportu/workday-scheduler 
+- Michael Portu; used as a reference -  https://github.com/mlportu/workday-scheduler 
 - W3schools
 ## License
 MIT License
